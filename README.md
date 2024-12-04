@@ -7,6 +7,11 @@ A fully responsive real-time chat application that allows users to connect and c
 
 ---
 
+## 🎥 Demo Video
+![Demo Preview](./screenshots/chat.gif)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Front-End
